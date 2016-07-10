@@ -254,7 +254,7 @@ Persian: @IranSeed
     help_text_realm = [[
 Realm Commands:
 
-!creategroup [name]
+(گروه جدید (نام
 Create a group
 
 !createrealm [name]
@@ -426,7 +426,7 @@ Will return group ban list
 » Only moderators and owner can use kick,ban,unban,newlink,link,setphoto,setname,lock,unlock,set rules,set about and settings commands
 
 » Only owner can use res,setowner,promote,demote and log commands
-
+سودو بات : @delaram_queen
 ]]
   }
   serialize_to_file(config, './data/config.lua')
